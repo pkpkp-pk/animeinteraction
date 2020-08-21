@@ -1,6 +1,6 @@
 # Anime Interaction Python Telegram bot
 ## Overview
-A simple bot that can **parse** anime, **search** for anime **by file** and **return random** anime.
+A simple bot that can **parse** anime, **search** for anime by file and **return random** anime.
 
 ## Commands
 -  **Hello** - Test message for checking bot's functionality
