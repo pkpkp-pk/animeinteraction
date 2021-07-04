@@ -4,7 +4,7 @@ import output_format
 
 def anime_search(key):
 
-    TOKEN = '*TOKEN*' #Replace *TOKEN* to your telegram bot token. Example: 123456789:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw
+    TOKEN = '1455138895:AAH8gK7va5O0tRPIVaJT3a5d5RCLbodbBlQ' #Replace *TOKEN* to your telegram bot token. Example: 123456789:AAHdqTcvCH1vGWJxfSeofSAs0K5PALDsaw
 
     bot = telebot.TeleBot(TOKEN)
 
