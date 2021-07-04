@@ -35,7 +35,7 @@ def get_text_messages(message):
         bot.register_next_step_handler(message, search.anime_search)
 
     elif message.text == '/parse':
-        if user_id == 123456789 or user_id == 987654321: #Only privileged users with id's 123456789 and 987654321 can use this command
+        if user_id == 593710982 or user_id == 987654321: #Only privileged users with id's 123456789 and 987654321 can use this command
 
             bot.send_message(chat_id, 'Parsing has been started...')
             print('Bot sent message: Parsing has been started...')
